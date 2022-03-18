@@ -1,6 +1,6 @@
 import React from 'react';
 
-function HomePage(props) {
+function HomePage() {
 	return (
 		<h1>wanted clone</h1>
 	);
